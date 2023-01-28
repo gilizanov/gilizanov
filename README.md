@@ -4,6 +4,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSSWizardry&logoColor=FFFFFF)
 ![SCSS](https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=Sass&logoColor=FFFFFF)
 ![GULP](https://img.shields.io/badge/Gulp-000000?style=for-the-badge&logo=gulp&logoColor=FFFFFF)
+![Pug](https://img.shields.io/badge/Pug-000000?style=for-the-badge&logo=Pug&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
 ![BEM](https://img.shields.io/badge/БЭМ-000000?style=for-the-badge&logo=Bem&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF)
